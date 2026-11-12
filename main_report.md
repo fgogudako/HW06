@@ -5,7 +5,7 @@
 - **Họ và tên:** Lê Hữu Minh Quang
 - **Mã số sinh viên:** 23127108
 - **Lớp:** 23KTPM4
-- **Repository GitHub:** https://github.com/fgounlimitedluckgame/HW06
+- **Repository GitHub:** https://github.com/fgogudako/HW06
 
 ---
 
